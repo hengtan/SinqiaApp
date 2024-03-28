@@ -1,0 +1,6 @@
+@Sinqia.App_HostAddress = http://localhost:5007
+
+GET {{Sinqia.App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
